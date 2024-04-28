@@ -1,0 +1,14 @@
+.name{
+    padding-top: 10px;
+    font-size: larger;
+}
+.status{
+    padding-top: 5px;
+}
+.online{
+    color: green;
+}
+.offline{
+    color: red;
+}
+
